@@ -1,5 +1,5 @@
 class helloworld{
-var x = "helloworld";
+string x = "helloworld";
 
 
 }

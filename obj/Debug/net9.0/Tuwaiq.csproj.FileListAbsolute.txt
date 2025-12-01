@@ -1,0 +1,5 @@
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.sourcelink.json
