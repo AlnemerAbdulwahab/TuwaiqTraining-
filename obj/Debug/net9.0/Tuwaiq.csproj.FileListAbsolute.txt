@@ -3,3 +3,13 @@ C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9
 C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.AssemblyInfo.cs
 C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.csproj.CoreCompileInputs.cache
 C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.sourcelink.json
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\bin\Debug\net9.0\Tuwaiq.exe
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\bin\Debug\net9.0\Tuwaiq.deps.json
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\bin\Debug\net9.0\Tuwaiq.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\bin\Debug\net9.0\Tuwaiq.dll
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\bin\Debug\net9.0\Tuwaiq.pdb
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.dll
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\refint\Tuwaiq.dll
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.pdb
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\Tuwaiq.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Desktop\gitTuwaiq\Projects\exmaple\Tuwaiq\obj\Debug\net9.0\ref\Tuwaiq.dll

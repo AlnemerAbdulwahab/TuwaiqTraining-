@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuwaiq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c3a17a008860ca65e560c3caf3930e2bd81cbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+454ee55a7c77f8f5a8902c263cd7218f6708fce8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuwaiq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuwaiq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

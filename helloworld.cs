@@ -1,4 +1,4 @@
-class helloworld{
+class Helloworld{
 string x = "helloworld";
 
 
